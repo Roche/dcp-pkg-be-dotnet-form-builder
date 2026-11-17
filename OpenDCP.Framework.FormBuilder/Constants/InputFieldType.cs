@@ -16,7 +16,6 @@
         DateRange = 12,
         ExtendableDropdown = 13,
         Secret = 14,
-        Table = 15,
         StaticText = 16
     }
 }
